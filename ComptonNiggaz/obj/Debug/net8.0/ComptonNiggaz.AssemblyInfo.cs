@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComptonNiggaz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31c30800d12a1bb648f31bc47af92cb72b1f4b03")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComptonNiggaz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComptonNiggaz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

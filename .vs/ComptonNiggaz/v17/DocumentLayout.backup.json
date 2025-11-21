@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ARYSBAYA\\source\\repos\\ComptonNiggaz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28A60D92-AA10-41CE-A4DA-FA87386112C9}|ComptonNiggaz\\ComptonNiggaz.csproj|c:\\users\\arysbaya\\source\\repos\\comptonniggaz\\comptonniggaz\\doing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A60D92-AA10-41CE-A4DA-FA87386112C9}|ComptonNiggaz\\ComptonNiggaz.csproj|solutionrelative:comptonniggaz\\doing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28A60D92-AA10-41CE-A4DA-FA87386112C9}|ComptonNiggaz\\ComptonNiggaz.csproj|c:\\users\\arysbaya\\source\\repos\\comptonniggaz\\comptonniggaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28A60D92-AA10-41CE-A4DA-FA87386112C9}|ComptonNiggaz\\ComptonNiggaz.csproj|solutionrelative:comptonniggaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Doing.cs",
+              "DocumentMoniker": "C:\\Users\\ARYSBAYA\\source\\repos\\ComptonNiggaz\\ComptonNiggaz\\Doing.cs",
+              "RelativeDocumentMoniker": "ComptonNiggaz\\Doing.cs",
+              "ToolTip": "C:\\Users\\ARYSBAYA\\source\\repos\\ComptonNiggaz\\ComptonNiggaz\\Doing.cs",
+              "RelativeToolTip": "ComptonNiggaz\\Doing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:36:59.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ARYSBAYA\\source\\repos\\ComptonNiggaz\\ComptonNiggaz\\Program.cs",
               "RelativeDocumentMoniker": "ComptonNiggaz\\Program.cs",
               "ToolTip": "C:\\Users\\ARYSBAYA\\source\\repos\\ComptonNiggaz\\ComptonNiggaz\\Program.cs",
               "RelativeToolTip": "ComptonNiggaz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T05:04:02.942Z",
               "EditorCaption": ""
